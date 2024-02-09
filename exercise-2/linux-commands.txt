@@ -1,0 +1,11 @@
+COMMAND						DESCRIPTION
+sudo						Allows regular users to run prog						rams with the security privilege						s of the superuser or root.
+clear						Clears the terminal.
+pr -h						Assigns a header to the file
+pr -n						Denotes the file with Line numbe						rs.
+apt-get						Command used to install and upda						te packages.
+ls -l						To show file type and access per						mission.
+r						Read permission.
+w						Write permission.
+x						Execute permission.
+sudo adduser username				To add a new user.
